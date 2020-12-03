@@ -1,6 +1,4 @@
 
- @copyright 2019 3081 Staff, All rights reserved.
-
 # Jerry Knoch Transit Simulation
 
 
@@ -359,3 +357,6 @@ bus class and allow further depth of the simulation such as keeping track of fue
 collected by passengers riding a bus. There are many options for a developer to expand upon the current 
 system.
 
+
+
+ @copyright 2019 3081 Staff, All rights reserved.
