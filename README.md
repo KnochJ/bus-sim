@@ -258,7 +258,7 @@ the ability for the program to be run either through the visualizer simulator,
 or by using the configuration simulator.
 
 ### Setup
-Repository URL: https://github.com/KnochJ/bus-sim.com
+Repository URL: https://github.com/KnochJ/bus-sim
 After creating a directory and cloning the repository, a UML diagram
 associated with the design can be found in the project/docs/ directory.
 Using this as an aid while reading through this guide can assist in understanding
